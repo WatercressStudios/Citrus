@@ -1,0 +1,15 @@
+
+--- launch game ---
+INFO                     Game directory: /Users/alisonhuang/Renpy/One-Step-Forward/game
+
+--- launch game ---
+INFO                     Game directory: /Users/alisonhuang/Renpy/One-Step-Forward/game
+
+--- launch game ---
+INFO                     Game directory: /Users/alisonhuang/Renpy/One-Step-Forward/game
+
+--- launch game ---
+INFO                     Game directory: /Users/alisonhuang/Renpy/One-Step-Forward/game
+
+--- launch game ---
+INFO                     Game directory: /Users/alisonhuang/Renpy/One-Step-Forward/game
